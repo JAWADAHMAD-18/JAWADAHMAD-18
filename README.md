@@ -63,7 +63,7 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jawadahmad-18&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jawadahmad-18&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JAWADAHMAD-18&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JAWADAHMAD-18&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmad-18&" alt="Streak Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JAWADAHMAD-18&" alt="Streak Stats" /></p>
