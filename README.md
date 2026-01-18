@@ -1,32 +1,49 @@
-<h1 align="center">Hi 👋, I'm Jawad Ahmad</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Final+Year+CS+Student;AI-Powered+Systems+Explorer;Full-Stack+Engineer" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Jawad Ahmad <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="40"></h1>
+<h3 align="center">A MERN stack developer from Pakistan | Final Year CS Student | Full-Stack Developer (React & Node.js) | AI-Powered Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jawadahmad-18&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/jawadahmad-18">
-    <img src="https://github-profile-trophy.vercel.app/?username=jawadahmad-18&theme=radical&no-frame=true&column=7" alt="trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=JAWADAHMAD-18&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;&nbsp;
+  <a href="https://github-profile-trophy.vercel.app/?username=JAWADAHMAD-18"><img src="https://github-profile-trophy.vercel.app/?username=JAWADAHMAD-18" alt="trophies" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🔭 I’m currently working on
+- **TRIPFUSION** – my FYP project: an AI-powered travel agency platform (private repo, will be public soon)
 
-- 🔭 **Current Focus:** Building **TRIPFUSION** – An AI-powered travel agency ecosystem.
-- 🌱 **Learning:** Advanced React Design Patterns & Node.js Performance Tuning.
-- 👨‍💻 **Portfolio:** [jawad-protfolio.vercel.app](https://jawad-protfolio.vercel.app/)
-- 💬 **Ask me about:** React, GSAP animations, and MERN architecture.
-- ⚡ **Fun Fact:** I love making UI move with Framer Motion and GSAP.
+### 🌱 I’m currently learning
+- Advanced React patterns  
+- Node.js backend optimization  
+- AI feature integration  
+- Performance & production readiness
+
+### 👨‍💻 Projects / What I’m building & exploring
+- [Portfolio](https://jawad-protfolio.vercel.app/) – all my projects  
+- Full-stack web applications with modern React frontends  
+- Scalable Node.js backends and RESTful APIs  
+- AI-powered features to enhance UX and decision-making  
+- Clean UI/UX with animations and performance optimizations
+
+### 💬 Ask me about
+- React.js and frontend architecture  
+- UI animations using GSAP & Framer Motion  
+- Full-stack application flow (React + Node.js)  
+- Integrating AI features into web applications
+
+### 📫 How to reach me
+- **Email:** jawadahmad5618@gmail.com  
+- **LinkedIn:** [www.linkedin.com/in/jawad-tech](https://linkedin.com/in/www.linkedin.com/in/jawad-tech)
+
+### 🔗 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/jawad-tech" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/jawadahmad2652" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
 
 ---
 
 ### 🛠 Tech Stack & Tools
-
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -66,19 +83,5 @@
 </table>
 
 ---
-
-### 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/jawad-tech" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/jawadahmad2652" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:jawadahmad5618@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 <p align="center">Built with 💻 and ☕ by Jawad Ahmad</p>
