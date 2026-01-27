@@ -19,7 +19,7 @@
 - Performance & production readiness
 
 ### 👨‍💻 Projects / What I’m building & exploring
-- [Portfolio](https://jawad-protfolio.vercel.app/) – all my projects  
+- [Portfolio](https://jawads.vercel.app/) – all my projects  
 - Full-stack web applications with modern React frontends  
 - Scalable Node.js backends and RESTful APIs  
 - AI-powered features to enhance UX and decision-making  
