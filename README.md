@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jawad Ahmad <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="40"></h1>
-<h3 align="center">A MERN stack developer from Pakistan | Final Year CS Student | Full-Stack Developer (React & Node.js) | AI-Powered Systems</h3>
+<h3 align="center">A MERN stack developer from Pakistan | BSCS Graduated  | Full-Stack Developer (React & Node.js) | AI-Powered Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JAWADAHMAD-18&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,11 +9,11 @@
 
 ---
 
-### 🔭 I’m currently working on
-- **TRIPFUSION** – my FYP project: an AI-powered travel agency platform (private repo, will be public soon)
+### 🔭 I’m completed working on
+- **TRIPFUSION** – my FYP project: an AI-powered travel agency platform (  public now)
 
 ### 🌱 I’m currently learning
-- Advanced React patterns  
+- AI Automation  
 - Node.js backend optimization  
 - AI feature integration  
 - Performance & production readiness
